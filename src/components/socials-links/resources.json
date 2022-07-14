@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_socials_links_resources",
+  "info": {
+    "displayName": "Resources",
+    "icon": "at"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Value": {
+      "type": "text"
+    }
+  }
+}
